@@ -11,4 +11,4 @@ def add(a, b):
     c = a + b
     return c
 def shout():
-    print('cokolwiek')
+    print('cokolwiek i co')
