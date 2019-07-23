@@ -1,5 +1,4 @@
 def introduce():
-<<<<<<< HEAD
     print("Hello, I'm Gittie is great day!")
 =======
     print("Hello, I'm a Monster")
